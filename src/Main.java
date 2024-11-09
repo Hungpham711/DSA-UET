@@ -1,7 +1,4 @@
-import BasicSortsAndShuffle.InsertionSort;
-import PriorityQueueAndHeapSort.Heapsort;
-import QuicksortAndMergesort.Mergesort;
-import QuicksortAndMergesort.Quicksort;
+package src;
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.Selection;
 
@@ -32,8 +29,8 @@ public class Main {
         long end = System.currentTimeMillis();  // thời gian chạy bằng end - start
         //StdArrayIO.print(a); // in mảng ra màn hình
         //System.out.println(end - start);
-        String s = "This is a test. This test is only a test.";
-        Solution.solve(s);
+//        String s = "This is a test. This test is only a test.";
+//        Solution.solve(s);
         sc.close();
     }
 }

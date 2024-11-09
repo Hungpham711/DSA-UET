@@ -1,4 +1,4 @@
-package DoPhucTapThuatToan;
+package src.DoPhucTapThuatToan;
 
 public class Bai_1422 {
     private static int[] fibo;

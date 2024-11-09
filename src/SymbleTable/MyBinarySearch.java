@@ -1,4 +1,4 @@
-package SymbleTable;
+package src.SymbleTable;
 
 public class MyBinarySearch<Key, Value> {
      private Key[] keys;

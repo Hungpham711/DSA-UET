@@ -1,4 +1,4 @@
-package QuicksortAndMergesort;
+package src.QuicksortAndMergesort;
 
 public class Quicksort {
     private static final int CUTOFF = 10;

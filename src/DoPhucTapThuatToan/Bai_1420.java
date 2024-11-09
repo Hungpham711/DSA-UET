@@ -1,4 +1,4 @@
-package DoPhucTapThuatToan;
+package src.DoPhucTapThuatToan;
 
 public class Bai_1420 {
     private static int findPeak(int[] a, int l, int r) {

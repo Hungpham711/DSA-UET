@@ -1,5 +1,5 @@
-package HashTable;
-import SymbleTable.*;
+package src.HashTable;
+import src.SymbleTable.*;
 import com.sun.jdi.Value;
 
 import java.security.Key;

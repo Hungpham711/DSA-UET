@@ -1,4 +1,4 @@
-package PriorityQueueAndHeapSort;
+package src.PriorityQueueAndHeapSort;
 
 public class MinHeap {
     private int[] pq;

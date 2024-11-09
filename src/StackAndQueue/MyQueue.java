@@ -1,4 +1,4 @@
-package StackAndQueue;
+package src.StackAndQueue;
 
 public class MyQueue<T> {
     private Node first, last;

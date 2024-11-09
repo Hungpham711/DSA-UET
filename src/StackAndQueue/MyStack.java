@@ -1,4 +1,4 @@
-package StackAndQueue;
+package src.StackAndQueue;
 
 public class MyStack<T> {
     private Node first = null;

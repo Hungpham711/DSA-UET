@@ -1,4 +1,4 @@
-package DoPhucTapThuatToan;
+package src.DoPhucTapThuatToan;
 
 public class Bai_1418 {
     private static int result(double[] a, int l, int r) {

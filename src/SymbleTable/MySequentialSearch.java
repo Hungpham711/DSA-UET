@@ -1,6 +1,5 @@
-package SymbleTable;
+package src.SymbleTable;
 
-import StackAndQueue.MyQueue;
 
 import java.util.LinkedList;
 import java.util.Queue;

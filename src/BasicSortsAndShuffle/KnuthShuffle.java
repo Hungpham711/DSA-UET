@@ -1,4 +1,4 @@
-package BasicSortsAndShuffle;
+package src.BasicSortsAndShuffle;
 
 import edu.princeton.cs.algs4.StdRandom;
 

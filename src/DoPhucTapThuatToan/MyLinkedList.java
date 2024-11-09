@@ -1,4 +1,4 @@
-package DoPhucTapThuatToan;
+package src.DoPhucTapThuatToan;
 
 public class MyLinkedList<T> {
 

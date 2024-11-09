@@ -1,7 +1,4 @@
-package QuicksortAndMergesort;
-
-import BasicSortsAndShuffle.InsertionSort;
-import edu.princeton.cs.algs4.In;
+package src.QuicksortAndMergesort;
 
 public class Mergesort {
 

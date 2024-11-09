@@ -1,4 +1,4 @@
-package PriorityQueueAndHeapSort;
+package src.PriorityQueueAndHeapSort;
 
 public class MyPriorityQueue_Integer<T> {
     private int[] pq;

@@ -1,4 +1,4 @@
-package StackAndQueue;
+package src.StackAndQueue;
 
 public class ResizingArrayQueue<T> {
     private T[] a;

@@ -1,4 +1,4 @@
-package UnionFind;
+package src.UnionFind;
 
 public class UnionFind {
     private static int[] parent;

@@ -1,4 +1,4 @@
-package BasicSortsAndShuffle;
+package src.BasicSortsAndShuffle;
 
 public class InsertionSort {
 
