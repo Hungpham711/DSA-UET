@@ -37,7 +37,6 @@ public class MaxHeap {
         int max = pq[0];
         swap(pq, n - 1, 0);
         n--;
-        pq[n] = 0;
         sink(0);
         if (n > 0 && n == pq.length / 4) {
             resize(pq.length / 2);
