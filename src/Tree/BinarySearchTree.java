@@ -135,7 +135,7 @@ public class BinarySearchTree<Key,Value> {
             }
 
             Node tmp = node;
-            node = min(tmp);
+            node = min(tmp.right);
             node.right = deleteMin(tmp.right);
             node.left = tmp.left;
 
